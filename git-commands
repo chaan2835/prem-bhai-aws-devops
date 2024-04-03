@@ -1,0 +1,3 @@
+performing git squashing
+
+git rebase -i head~4
